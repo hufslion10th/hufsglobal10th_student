@@ -1,9 +1,6 @@
-# hufsglobal10th_student
-
 ## 이 곳은 10기 학생 여러분들의 🦁코드라이언🦁 강의 수강 기록을 담습니다.
-
 ## 코드라이언 강의 수강 기록 법 📑
-- 처음에는 어렵게 느껴질 수도 있지만 여러분들 모두 할 수 있습니다.🤗
+처음에는 어렵게 느껴질 수도 있지만 여러분들 모두 할 수 있습니다.🤗<br/>
 
 1️⃣ hufsglobal10th_student repository를 fork한다. <br/>
 2️⃣ fork한 repository를 clone한다. <br/>
